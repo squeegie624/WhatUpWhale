@@ -1,0 +1,22 @@
+/* all css info for index */
+
+body {
+    width: 100%;
+    background-color: #396a93;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+}
+
+.big {
+    font-size: 3em;
+    color: white;
+    margin: 10% 10% 0 10%;
+    width: 80%;
+    
+}
+
+.small {
+    font-size: 1.5em;
+    color: white;
+    width: 80%;
+    margin-left: 10%;
+}
